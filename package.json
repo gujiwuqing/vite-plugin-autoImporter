@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gujiwuqing/vite-plugin-autoImporter.git"
+  },
   "dependencies": {
     "@babel/core": "^7.12.17",
     "@babel/plugin-syntax-import-meta": "^7.10.4",
